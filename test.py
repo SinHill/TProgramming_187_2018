@@ -1,0 +1,1 @@
+print("Skorobogatko Igor")
